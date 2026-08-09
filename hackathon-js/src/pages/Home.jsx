@@ -4,13 +4,10 @@ import { Download, Users, Trophy, Clock } from 'lucide-react';
 
 const Home = () => {
   return (
-    <div className="min-h-screen">
-      <section 
-        className="relative h-screen bg-cover bg-center"
-        style={{
-          backgroundImage: `url('https://res.cloudinary.com/dniaxogth/image/upload/v1756025083/mvluground_aolwle.jpg')`
-        }}
-      >
+    <div 
+  className="relative w-full min-h-screen bg-cover bg-center bg-no-repeat bg-black/70 bg-blend-overlay flex flex-col"
+  style={{ backgroundImage: `url('https://res.cloudinary.com/dniaxogth/image/upload/v1756025083/mvluground_aolwle.jpg')` }}
+>
         <div className="absolute inset-0 bg-black bg-opacity-60"></div>
         
         <div className="relative z-10 h-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center">
