@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div 
   className="relative w-full min-h-screen bg-cover bg-center bg-no-repeat bg-black/70 bg-blend-overlay flex flex-col"
-  style={{ backgroundImage: `url('https://res.cloudinary.com/dniaxogth/image/upload/v1756025083/mvluground_aolwle.jpg')` }}
+  style={{ backgroundImage: "url('https://res.cloudinary.com/dniaxogth/image/upload/v1756025083/mvluground_aolwle.jpg')" }}
 >
         <div className="absolute inset-0 bg-black bg-opacity-60"></div>
         
