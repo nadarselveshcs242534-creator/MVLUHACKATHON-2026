@@ -77,8 +77,8 @@ const Rules = () => {
       icon: <Star className="h-6 w-6" />,
       content: [
         "All participants will receive participation certificates",
-        "Up to 50 teams may be nominated for SIH 2025",
-        "Top performing teams will represent the college in SIH 2025",
+        "Up to 50 teams may be nominated for SIH 2026",
+        "Top performing teams will represent the college in SIH 2026",
         "Winners will receive special recognition and possible additional rewards",
         "Best teams may get mentoring opportunities for further development"
       ]
@@ -87,7 +87,7 @@ const Rules = () => {
       title: "After the Event",
       icon: <Lightbulb className="h-6 w-6" />,
       content: [
-        "Selected teams will work with College SPOC for SIH 2025 registration process",
+        "Selected teams will work with College SPOC for SIH 2026 registration process",
         "Teams will receive continued mentoring and guidance",
         "Regular follow-ups to ensure project development continues",
         "Teams must ensure originality of ideas for SIH participation",
@@ -104,7 +104,7 @@ const Rules = () => {
             Rules & Regulations
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Please read all the rules carefully before registering for MVLU Hackathon 2025. 
+            Please read all the rules carefully before registering for MVLU Hackathon 2026. 
             These guidelines ensure a fair and productive experience for all participants.
           </p>
         </div>
