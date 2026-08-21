@@ -40,7 +40,7 @@ const Home = () => {
                 Download Brochure
               </a>
               <a
-                href="https://drive.google.com/file/d/1ZblwVVllnTGUKRMCghNUNHEEH39NBGIv/view?usp=sharing"
+                href="https://drive.google.com/file/d/1mblTbJzE_h7g2HGyHmOK-3IM4szRy085/view?usp=sharing"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-gray-800 px-8 py-3 rounded-lg text-lg font-semibold transition-all text-center inline-flex items-center justify-center"
