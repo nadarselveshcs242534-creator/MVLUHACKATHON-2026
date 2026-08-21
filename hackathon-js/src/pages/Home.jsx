@@ -31,7 +31,7 @@ const Home = () => {
                 Register Now
               </Link>
               <a
-                href="https://res.cloudinary.com/dniaxogth/image/upload/v1756034479/MVLU_Hack_brochure_f2k6ou.jpg"
+                href="https://res.cloudinary.com/bfw5etsj/image/upload/v1787281081/MVLU_HACKATHON_2026_dp3bbk.png"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-gray-800 px-8 py-4 rounded-lg text-lg font-semibold transition-all text-center inline-flex items-center justify-center"
